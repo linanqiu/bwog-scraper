@@ -32,4 +32,10 @@ $ node app.js
 ```
 
 to run the app. The app will scrape the blog page by page (to avoid
-overaggressive abuse of the server). 
+overaggressive abuse of the server).
+
+## Just Give Me The Data
+
+It's in `out.csv` in this repo. Direct linke here
+[https://raw.githubusercontent.com/linanqiu/bwog-scraper/master/out.csv](https://raw.githubusercontent.com/linanqiu/bwog-scraper/master/out.csv) Spans a thousand pages, which goes back 10
+years. 
